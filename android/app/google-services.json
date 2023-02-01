@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "502222668436",
+    "project_id": "lernapp-dad9f",
+    "storage_bucket": "lernapp-dad9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502222668436:android:9496ab9d56e65a0ef56a81",
+        "android_client_info": {
+          "package_name": "com.example.quizquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502222668436-bbmffiidqm8463otonugdn44app4399r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quizquiz",
+            "certificate_hash": "1ef9a6dd10bf4d2348ffc4dd8ea06c35d69b01f0"
+          }
+        },
+        {
+          "client_id": "502222668436-1gtvl5eiejj9scle4gj3i4p3s7mf50kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDr0TJUqbNmVrWWXnuTL-yWaw4zkXORzqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502222668436-1gtvl5eiejj9scle4gj3i4p3s7mf50kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
